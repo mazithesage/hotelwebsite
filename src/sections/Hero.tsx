@@ -27,8 +27,7 @@ const Hero = () => {
             <p className="text-[22px]">Since 2024</p>
           </div>
           <p className="xl:mt-[96px] text-center xmd:text-start text-[13px] xl:text-base leading-relaxed opacity-80">
-            The luxurious Link in the most beautiful European city with an
-            exclusive restaurant, conference-hall, and art-bar.
+          Your Exclusive Link to America's Best Housing Deals!
           </p>
         </div>
 
