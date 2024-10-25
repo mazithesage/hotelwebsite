@@ -29,23 +29,7 @@ const MobileMenu = () => {
           ROOMS
         </ScrollLink>
 
-        <ScrollLink
-          onClick={() => setIsOpen(false)}
-          to="restaurant"
-          duration={1000}
-          smooth={true}
-        >
-          RESTAURANT
-        </ScrollLink>
-
-        <ScrollLink
-          onClick={() => setIsOpen(false)}
-          to="conference-hall"
-          duration={1000}
-          smooth={true}
-        >
-          CONFERENCE HALL
-        </ScrollLink>
+        
 
         <ScrollLink
           onClick={() => setIsOpen(false)}
