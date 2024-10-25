@@ -15,7 +15,7 @@ const Hero = () => {
             Realtor<span className="text-yellow">Link</span>
           </h1>
           <p className="mt-[19px] text-center xmd:text-start text-[14px] xl:text-lg text-yellow uppercase">
-            rooms // restaurant // congress hall // wine bar
+            Making housing Easier
           </p>
         </div>
 
